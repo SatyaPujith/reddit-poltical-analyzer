@@ -1,0 +1,6 @@
+Flask
+praw
+vaderSentiment
+matplotlib
+pandas
+scikit-learn
